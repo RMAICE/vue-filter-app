@@ -7,7 +7,6 @@
 </template>
 
 <script>
-import Vue from "vue";
 import _ from "lodash";
 import Range from "./Range";
 import Select from "./Select";
